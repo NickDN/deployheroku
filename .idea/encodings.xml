@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java/ru/myproject/dyakins/account/Account.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java/ru/myproject/dyakins/phone/Phone.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java/ru/myproject/dyakins/dao/AccountDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java/ru/myproject/dyakins/dao/FriendsDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java/ru/myproject/dyakins/dao/PhoneDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java/ru/myproject/dyakins/dao/connection/ConnectionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/test/java/ru/myproject/dyakins/dao/AccountDAOImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/test/java/ru/myproject/dyakins/dao/FriendsDAOImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/test/java/ru/myproject/dyakins/dao/PhoneDAOImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/main/java/ru/myproject/dyakins/service/AccountServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/test/java/ru/myproject/dyakins/service/AccountServiceImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/test/java/ru/myproject/dyakins/service/FriendsServiceImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/test/java/ru/myproject/dyakins/service/PhoneServiceImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/src/main/webapp/image/nophoto.jpg" charset="windows-1250" />
+    <file url="PROJECT" charset="windows-1250" />
+  </component>
+</project>

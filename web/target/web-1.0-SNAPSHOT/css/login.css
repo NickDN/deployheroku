@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+}
+
+.grandParentContainer{
+    display:table; height:100%; margin: 0 auto;
+}
+
+.parentContainer{
+    display:table-cell; vertical-align:middle;
+}
+
+.legend {
+    padding: 20px;
+    border: solid dodgerblue;
+}
+
+.form {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+}
+
+.btn {
+    background-color: dodgerblue;
+    border: none;
+    width: 85%;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    font-size: 15px;
+    margin: 5px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.mistake {
+    padding: 40px;
+    width: 50%;
+    text-align: center;
+}
+
+p.errMsg {
+    color: red;
+}

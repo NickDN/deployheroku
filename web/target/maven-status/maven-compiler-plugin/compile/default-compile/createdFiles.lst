@@ -1,0 +1,5 @@
+ru\myproject\dyakins\filters\Two.class
+ru\myproject\dyakins\filters\SessionFilter.class
+ru\myproject\dyakins\servlets\AccountServlet.class
+ru\myproject\dyakins\servlets\LoginServlet.class
+ru\myproject\dyakins\servlets\LogoutServlet.class
