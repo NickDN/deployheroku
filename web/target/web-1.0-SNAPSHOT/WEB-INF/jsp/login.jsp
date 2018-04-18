@@ -11,23 +11,23 @@
 <body>
 <div class="grandParentContainer">
     <div class="parentContainer">
-        <form action="${pageContext.request.contextPath}/login" method="post">
-            <fieldset class="legend form">
-                <legend>Social Network</legend>
+        <fieldset class="legend form">
+            <legend><h1 class="legend-text">Social Network</h1></legend>
+            <form action="${pageContext.request.contextPath}/login" method="post">
                 <label for="email">Email</label><br/>
                 <input type="email" name="email" id="email" value="${email}"/><br/>
                 <label for="password">Password</label><br/>
                 <input type="password" name="password" id="password" value="${password}"/><br/>
                 <label>
-                    <input type="checkbox" name="remember"  checked value="true"${remember}> Remember me
+                    <input type="checkbox" name="remember" checked value="true"${remember}> Remember me
                 </label>
                 <button class="btn">Login</button>
                 <br/>
-                <button class="btn">Registration</button>
-                <br/>
-                <p class="errMsg">${errMsg}</p>
-            </fieldset>
-        </form>
+            </form>
+            <button class="btn">Registration</button>
+            <br/>
+            <p class="errMsg">${errMsg}</p>
+        </fieldset>
     </div>
 </div>
 </body>

@@ -9,7 +9,6 @@
 </head>
 <body>
 <c:if test="${empty param.email}">
-    <%--todo Э. Форвард можно? Корректно?--%>
     <jsp:forward page="login">
         <jsp:param name="errMsg" value="Email or Password field is empty"/>
     </jsp:forward>
